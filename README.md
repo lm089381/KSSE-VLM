@@ -5,8 +5,8 @@ Datasets
 
 We use two datasets (IU X-Ray and MIMIC-CXR) in our paper.
 
-For IU X-Ray, you can download the dataset from here and then put the files in iu_xray.
+For IU X-Ray, you can download the dataset from [here](https://openi.nlm.nih.gov/) and then put the files in iu_xray.
 
-For MIMIC-CXR, you can download the dataset from here and then put the files in mimic.
+For MIMIC-CXR, you can download the dataset from [here](https://physionet.org/content/mimic-cxr-jpg/2.1.0/) and then put the files in mimic.
 
 Run the code:
