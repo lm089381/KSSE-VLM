@@ -21,4 +21,4 @@ Please use the [nlg-eval](https://github.com/Maluuba/nlg-eval/) and the [chexper
 
 **Contact**
 
-If you have any questions about our work, please ask in issues or send an email to [2202403074@stu.ccut.edu.cn]
+If you have any questions about our work, please ask in issues or send an email to [2202403074@stu.ccut.edu.cn](2202403074@stu.ccut.edu.cn)
