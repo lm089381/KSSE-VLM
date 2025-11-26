@@ -1,4 +1,4 @@
-# RadKCD: Knowledge-aware Context Enhancement Network with Dual-path Attention for Radiology Report Generation
+# KSSE-VLM: Knowledge-guided Structure-Semantic Enhancement Medical Visual-Language Model for Radiology Report Generation
 Code for paper: Knowledge-aware Context Enhancement Network with Dual-path Attention for Radiology Report Generation
 
 **Datasets**
